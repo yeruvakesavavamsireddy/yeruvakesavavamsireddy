@@ -1,93 +1,22 @@
-👋 Hi, I'm Kesava
 
-🚀 AI & Machine Learning Enthusiast | Aspiring ML Engineer
-🎓 Final Year B.Tech CSE Student | India
-💡 Focused on Building Real-World AI Solutions
-
-🧠 About Me
-
-I am a Computer Science undergraduate deeply focused on Artificial Intelligence and Machine Learning.
-I believe in building systems — not just writing code.
+# 💫 About Me:
+👋 Hi, I'm Kesava<br><br>🚀 AI & Machine Learning Enthusiast | Aspiring ML Engineer<br>🎓 Final Year B.Tech CSE Student | India<br>💡 Focused on Building Real-World AI Solutions<br><br>🧠 About Me<br><br>I am a Computer Science undergraduate deeply focused on Artificial Intelligence and Machine Learning.<br>I believe in building systems — not just writing code.<br><br>My goal is simple:<br><br>Become job-ready in AI/ML by building practical, production-style projects.<br><br>I am currently sharpening my skills in:<br><br>Python for Data Science<br><br>Machine Learning Model Building<br><br>Data Analysis & Visualization<br><br>Git & GitHub for version control<br><br>End-to-end project development<br><br>🔭 What I'm Currently Working On<br><br>📊 AI-based Performance Analysis Projects<br><br>🤖 Machine Learning models using real datasets<br><br>🧪 Data preprocessing & feature engineering practice<br><br>🧠 Strengthening ML fundamentals (Math + Algorithms)<br><br>🌱 What I'm Learning<br><br>Supervised & Unsupervised Learning<br><br>Model Evaluation Techniques<br><br>Data Cleaning & Transformation<br><br>GitHub Project Structuring & Documentation<br><br>Writing clean, production-ready code<br><br>👯 I’m Looking to Collaborate On<br><br>Open-source ML projects<br><br>Beginner-friendly AI research implementations<br><br>Data analysis case studies<br><br>Real-world problem-solving projects<br><br>💬 Ask Me About<br><br>Python basics & intermediate concepts<br><br>Machine Learning fundamentals<br><br>Git & GitHub workflows<br><br>Building structured AI projects<br><br>🏆 Goals for 2026<br><br>✅ Build 10 strong ML portfolio projects<br><br>✅ Contribute to open-source AI repositories<br><br>✅ Land a role in AI / ML / Data Science<br><br>✅ Publish high-quality technical content<br><br>🛠️ Tech Stack<br><br>Languages:<br>Python<br><br>Libraries & Tools:<br>NumPy | Pandas | Matplotlib | Scikit-learn<br><br>Version Control:<br>Git | GitHub<br><br>📫 How to Reach Me<br><br>LinkedIn: (Add your LinkedIn URL here)<br><br>Email: (Add professional email here)<br><br>⚡ Mindset<br><br>I don't chase trends.<br>I build skills.<br>I ship projects.<br>I iterate.<br>I improve.<br>
 
 
-My goal is simple:   
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/yeruvakesavavamsireddy) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@zero-1111i?si=UZI4FTfGS8o8X3dG) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vamsireddy252467@gmail.com) 
 
-Become job-ready in AI/ML by building practical, production-style projects.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![CloudBees](https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=for-the-badge) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yeruvakesavavamsireddy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=yeruvakesavavamsireddy&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yeruvakesavavamsireddy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=yeruvakesavavamsireddy&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-I am currently sharpening my skills in:
+---
+[![](https://visitcount.itsvg.in/api?id=yeruvakesavavamsireddy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Python for Data Science
-Machine Learning Model Building
-Data Analysis & Visualization
-Git & GitHub for version control
-End-to-end project development
-
-
-🔭 What I'm Currently Working On
-
-📊 AI-based Performance Analysis Projects
-🤖 Machine Learning models using real datasets
-🧪 Data preprocessing & feature engineering practice
-🧠 Strengthening ML fundamentals (Math + Algorithms)
-
-
-🌱 What I'm Learning
-
-Supervised & Unsupervised Learning
-Model Evaluation Techniques
-Data Cleaning & Transformation
-GitHub Project Structuring & Documentation
-Writing clean, production-ready code
-
-
-👯 I’m Looking to Collaborate On
-
-Open-source ML projects
-Beginner-friendly AI research implementations
-Data analysis case studies
-Real-world problem-solving projects
-
-
-💬 Ask Me About
-
-Python  concepts
-Machine Learning fundamentals
-Git & GitHub workflows
-Deep Learning concepts
-Building structured AI projects
-
-
-
-🏆 Goals for 2026
-
-✅ Build 10 strong ML portfolio projects
-✅ Contribute to open-source AI repositories
-✅ Land a role in AI / ML / Data Science
-✅ Publish high-quality technical content
-
-🛠️ Tech Stack
-
-Languages: Python
-
-Libraries & Tools:
-NumPy | Pandas | Matplotlib | Scikit-learn
-
-Version Control:
-Git | GitHub
-
-
-
-📫 How to Reach Me
-
-LinkedIn:linkedin.com/in/yeruvakesavavamsireddy
-Email:vamsireddy252467@gmail.com
-
-
-⚡ Mindset
-
-I don't chase trends.
-I build skills.
-I ship projects.
-I iterate.
-I improve.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
